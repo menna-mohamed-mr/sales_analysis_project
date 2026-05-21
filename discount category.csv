@@ -1,0 +1,4 @@
+Discount_Category,Number_of_Orders,Total_Profit,Avg_Discount_Value
+No Discount,4787,320844.4073,0
+Low Discount,3799,100754.7755,19.68412740194788
+High Discount,1391,-135357.7602,58.3314162473041
